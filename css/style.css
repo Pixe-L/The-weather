@@ -27,6 +27,10 @@ body {
 	border-radius: 3px;
 }
 
+.search::placeholder {
+	color: black;
+}
+
 .search {
 	width: 100%;
 	background-color: var(--text);
